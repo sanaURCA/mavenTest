@@ -9,6 +9,6 @@ public class AppController {
 @RequestMapping("/")
 
 public String home() {
-	return "hello world eclipse";
+	return "hello world sana";
 }
 }
